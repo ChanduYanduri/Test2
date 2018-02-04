@@ -5,5 +5,9 @@ public static void main(String[] args){
     System.out.print("Hello");
     System.out.println(" World");
     System.out.println("Hello World");
+    System.out.println("new line 2");
+    System.out.println("new line 3");
+    System.out.println("new line4");
+
 }
 }
