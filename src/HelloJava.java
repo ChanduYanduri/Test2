@@ -9,5 +9,9 @@ public static void main(String[] args){
     System.out.println("new line 3");
     System.out.println("new line4");
 
+    System.out.println("Today is Sunday");
+    System.out.println("Class finished at 3pm");
+    System.out.println("See you Next week");
+
 }
 }
