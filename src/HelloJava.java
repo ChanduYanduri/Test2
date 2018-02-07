@@ -1,17 +1,19 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 public class HelloJava {
 public static void main(String[] args){
-    String greeting = "Hi Hello How are you";
-    System.out.println(greeting);
-    System.out.print("Hello");
-    System.out.println(" World");
-    System.out.println("Hello World");
-    System.out.println("new line 2");
-    System.out.println("new line 3");
-    System.out.println("new line4");
 
-    System.out.println("Today is Sunday");
-    System.out.println("Class finished at 3pm");
-    System.out.println("See you Next week");
+    System.out.println("0");
+    System.out.println("1");
+    System.out.println("2");
+    System.out.println("3");
+    System.out.println("4");
+    System.out.println("5");
+    System.out.println("6");
+    System.out.println("7");
+    System.out.println("8");
+    System.out.println("9");
+    System.out.println("10");
 
 }
 }
